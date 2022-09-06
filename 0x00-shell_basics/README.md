@@ -1,1 +1,1 @@
- script that changes the working directory to the previous one
+working directory and boot directory all together
